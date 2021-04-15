@@ -1,3 +1,16 @@
 <resources>
-    <string name="app_name">CatalogoProductos</string>
+    <string name="app_name">Catálogo de Productos</string>
+    <string name="main_bnt_agregar">Agregar</string>
+    <string name="dialog_title">Agregar producto</string>
+    <string name="dialog_product_name">Nombre</string>
+    <string name="dialog_product_description">Descripción</string>
+    <string name="dialog_product_button">Guardar</string>
+    <string name="stock_product">En stock: %1$s</string>
+    <string name="verification_empty_product">El nombre y la descripción son obligatorios</string>
+    <string name="title_delete">Eliminar producto</string>
+    <string name="subtitle_delete">Estas seguro que quieres eliminar este producto</string>
+    <string name="agree">Aceptar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="text_title">Productos</string>
+    <string name="text_subtitle">Agrega, edita o elimina tus productos</string>
 </resources>
